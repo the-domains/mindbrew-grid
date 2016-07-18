@@ -1,0 +1,14 @@
+layout_spectrum: 0.22355624800547957
+typography_spectrum: 0.6593591701239347
+color:
+  brandStrength: 0.09753607609309256
+  lightness: 0.7226568965706974
+  saturation: 0.5190213294699788
+  rhythmicContrast: 0.9933070060797036
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Mindbrew Grid
